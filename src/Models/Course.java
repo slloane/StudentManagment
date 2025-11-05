@@ -1,3 +1,5 @@
+package Models;
+
 public class Course {
     private String name;
     private int note; // 0 to 20

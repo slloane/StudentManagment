@@ -1,3 +1,5 @@
+package Strategy;
+
 import Models.Course;
 
 import java.util.List;

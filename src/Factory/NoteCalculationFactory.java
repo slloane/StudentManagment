@@ -1,3 +1,5 @@
+package Factory;
+
 import Strategy.AverageNoteStrategy;
 import Strategy.NoteCalculationStrategy;
 
