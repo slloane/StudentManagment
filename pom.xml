@@ -47,7 +47,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.0.0</version>
                 <configuration>
-                    <mainClass>src.java.main.Main</mainClass> <!-- Replace with your main class fully qualified name -->
+                    <mainClass>StudentCRUDApp</mainClass> <!-- Replace with your main class fully qualified name -->
                 </configuration>
             </plugin>
         </plugins>
